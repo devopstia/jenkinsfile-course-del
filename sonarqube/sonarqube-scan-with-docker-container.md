@@ -6,7 +6,7 @@
 - SonarQube Scanner Plugin: SonarQube Scanner
 - Docker Pipeline Plugin : Docker Pipeline
 
-2- Genarate a toke in sonarqube
+2- Genarate a token in sonarqube
 - go to account 
 - security
 - generate the token - user-token

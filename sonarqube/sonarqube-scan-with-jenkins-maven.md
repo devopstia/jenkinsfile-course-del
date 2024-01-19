@@ -81,8 +81,8 @@ node {
 - sonar.sources=.: this means the source code is where the sonar-project.properties is in the repository
 ```s
 sonar.host.url=https://sonarqube.ektechsoftwaresolution.com/
-sonar.projectKey=test-sonar2
-sonar.projectName=test-sonar2
+sonar.projectKey=a1-weather-app-project
+sonar.projectName=a1-weather-app-project
 sonar.projectVersion=1.0
 sonar.sources=.
 qualitygate.wait=true 
